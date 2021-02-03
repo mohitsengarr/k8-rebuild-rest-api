@@ -51,7 +51,7 @@ namespace Glasswall.Core.Engine.Common
             },
             TiffContentManagement = new TiffContentManagement
             {
-                Geotiff = ContentManagementFlagAction.Sanitise
+                Geotiff = ContentManagementFlagAction.Allow
             }
         };
     }
