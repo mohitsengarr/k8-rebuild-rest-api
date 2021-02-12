@@ -18,7 +18,7 @@
 
         public static class GwIcap
         {
-            public const string ARGUMENT = "-c \"cd {0}; time /usr/local/c-icap/bin/c-icap-client -f ./{1} -i 127.0.0.1 -p 1344 -s gw_rebuild -o {2} -v;\"";
+            public const string ARGUMENT = "-c \"cd {0}; time c-icap-client -f ./{1} -i 127.0.0.1 -p 1344 -s gw_rebuild -o {2} -v;\"";
         }
     }
 }
