@@ -13,7 +13,6 @@ using Glasswall.CloudSdk.AWS.Rebuild.Models;
 using Glasswall.CloudSdk.AWS.Rebuild.Services;
 using Glasswall.CloudSdk.Common;
 using Glasswall.CloudSdk.Common.Web.Abstraction;
-using Glasswall.CloudSdk.Common.Web.Models;
 using Glasswall.Core.Engine.Common.FileProcessing;
 using Glasswall.Core.Engine.Messaging;
 using Microsoft.AspNetCore.Hosting;
