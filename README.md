@@ -74,5 +74,5 @@ You can see the helm chart [here](https://github.com/k8-proxy/k8-rebuild-rest-ap
 https://www.youtube.com/watch?v=TlXwsJrXe68&amp;feature=youtu.be
 
 # Postman Collection
-https://www.getpostman.com/collections/8eb5b9d245b8aca558eb
+https://www.getpostman.com/collections/93cdb5a43cc5135eed64
 
