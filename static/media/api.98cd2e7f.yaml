@@ -11,7 +11,7 @@ tags:
   - name: Rebuild
     description: Glasswall File Rebuild Product API
 servers:
-  - url: https://gzlhbtpvk2.execute-api.eu-west-1.amazonaws.com/Prod
+  - url: https://3.249.245.10/
     description: eu-west-1
 paths:
   /api/rebuild:
