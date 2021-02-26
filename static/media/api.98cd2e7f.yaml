@@ -11,7 +11,7 @@ tags:
   - name: Rebuild
     description: Glasswall File Rebuild Product API
 servers:
-  - url: https://3.249.245.10/
+  - url: https://52.19.235.59
     description: eu-west-1
 paths:
   /api/rebuild:
